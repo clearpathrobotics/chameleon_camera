@@ -1,0 +1,17 @@
+<package>
+  <description brief="chameleon_camera">
+
+	  Launch files and configuration for color Point Grey Chameleon camera.
+
+  </description>
+  <author>abencz@clearpathrobotics.com</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="nodelet"/>
+  <depend package="image_proc"/>
+  <depend package="camera1394"/>
+
+</package>
+
+
